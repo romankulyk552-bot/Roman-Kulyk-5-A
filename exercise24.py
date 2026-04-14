@@ -1,4 +1,5 @@
 from turtle import *
+Screen().setup(1.0, 1.0)
 
 t = Turtle()
 t.width(3)
